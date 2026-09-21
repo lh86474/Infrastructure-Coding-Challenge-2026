@@ -77,3 +77,20 @@ The sum of the two commands should show data: 7.0 in the terminal that is runnin
 
 ## Screenshots
 
+<img width="1102" height="150" alt="image" src="https://github.com/user-attachments/assets/f4828415-1284-415d-8a1b-908e7654b70e" />
+
+
+Screenshot of successful run of node
+
+
+<img width="1370" height="256" alt="image" src="https://github.com/user-attachments/assets/9f7731ff-267c-4ee7-bd23-d5942eebe161" />
+
+
+Screenshot of me using the ros2 topic pub commands
+
+
+<img width="1558" height="116" alt="image" src="https://github.com/user-attachments/assets/074f8344-3c8f-4f5a-8a9b-232423e55a20" />
+
+
+Screenshot of successful adding. 
+
